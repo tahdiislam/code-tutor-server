@@ -4,41 +4,47 @@
         "title": "Introduction to Web Development",
         "details": "This course is designed to start you on a path toward future studies in web development and design, no matter how little experience or technical knowledge you currently have. The web is a very big place, and if you are the typical internet user, you probably visit several websites every day, whether for business, entertainment or education. But have you ever wondered how these websites actually work? How are they built? How do browsers, computers, and mobile devices interact with the web? What skills are necessary to build a website? With almost 1 billion websites now on the internet, the answers to these questions could be your first step toward a better understanding of the internet and developing a new set of internet skills.",
         "thumbnail": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
-        "ratings": 4.6
+        "ratings": 4.6,
+        "outline": ["HTML", "CSS", "JavaScript", "Bootstrap"]
     },
     {
         "id": 2,
         "title": "Full-Stack Web Development",
         "details": "MEAN stack development is a modern approach to building dynamic web applications. It is an open-source JavaScript framework that harnesses four major technologies: MongoDB, Express, Angular, and Node.js. Given the ever-increasing demand for full-stack JavaScript developers, this course will help you master both front-end and back-end development. The course will begin with teaching you how to build your own application with plain JavaScript and the fundamentals of web development (HTML, CSS, and JavaScript). You will understand how Node can be used to execute JavaScript code at the back end and the powerful applicability of Node when used with the Express framework and MongoDB. Further, you will learn how to use the front-end framework with Angular for building client applications and user interfaces. Later, you will become familiar with building REST APIs with tools such as Postman and SoapUI. ",
         "thumbnail": "https://img.freepik.com/free-vector/application-programming-interface-concept-illustration_114360-9235.jpg?w=826&t=st=1666830488~exp=1666831088~hmac=9b9c900942b6415d2fd5efea32c06ae1ad098fc88e7f5b65bb341d851a7e24e2",
-        "ratings": 4.5
+        "ratings": 4.5,
+        "outline": ["HTML", "CSS", "JavaScript", "Bootstrap", "React", "NodeJS"]
     },
     {
         "id": 3,
         "title": "Android App Development",
         "details": "This Specialization enables learners to successfully apply core Java programming languages features & software patterns needed to develop maintainable mobile apps comprised of core Android components, as well as fundamental Java I/O & persistence mechanisms.  The Capstone project will integrate the material from throughout the Specialization to exercise and assess the ability of learners to create an interesting Android app by applying knowledge and skills learned in previous MOOCs, including Java programming features, Android Studio tools, Android Activity components, Material Design, file I/O and data persistence, unit testing, and software patterns. The project itself will be similar in design goals to previous assignments, however it will provide less of the skeleton code than earlier MOOCs provide to enable more creativity to learners and greater opportunity for learners to customize the app. ",
         "thumbnail": "https://img.freepik.com/free-vector/app-development-landing-page_52683-47903.jpg?w=826&t=st=1666830664~exp=1666831264~hmac=ae94b450dc15990ae5f052353e86331007bab1e2fb5aaceb9cea9fd3c5a7f5f6",
-        "ratings": 4.6
+        "ratings": 4.6,
+        "outline": ["Java", "JavaScript", "React Native", "NodeJS"]
     },
     {
         "id": 4,
         "title": "Mastering In C++",
         "details": "This course is all about starting to learn how to develop video games using the C++ programming language and the Unreal Engine on Windows or Mac. This course assumes you have previous programming experience in some other language. Although we'll start at the very beginning for C++, hardly anybody learns (or teaches) C++ as a first language. Similarly, Unreal Engine is a commercial, industrial strength game engine. With great power comes great ... complexity, so it's important that you have the will to work hard to learn how to use C++ in Unreal Engine. Computer programming is really fun in general, and programming games is even better!",
         "thumbnail": "https://images.unsplash.com/photo-1542903660-eedba2cda473?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "ratings": 4.7
+        "ratings": 4.7,
+        "outline": ["C++", "Problem Solving", "OOP"]
     },
     {
         "id": 5,
         "title": "Python Zero to Hero",
         "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization.",
         "thumbnail": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=826&t=st=1666831266~exp=1666831866~hmac=69f8249f35353b842f1a620bb10a72c5afbdc6965940348100350199cf5754b6",
-        "ratings": 4.0
+        "ratings": 4.0,
+        "outline": ["Python", "Jango"]
     },
     {
         "id": 6,
         "title": "AI Foundations",
         "details": "Artificial Intelligence (AI) is no longer science fiction. It is rapidly permeating all industries and having a profound impact on virtually every aspect of our existence. Whether you are an executive, a leader, an industry professional, a researcher, or a student - understanding AI, its impact and transformative potential for your organization and our society is of paramount importance.  This specialization is designed for those with little or no background in AI, whether you have technology background or not, and does not require any programming skills. It is designed to give you a firm understanding of what is AI, its applications and use cases across various industries. You will become acquainted with terms like Machine Learning, Deep Learning and Neural Networks. Furthermore, it will familiarize you with IBM Watson AI services that enable any business to quickly and easily employ pre-built AI smarts to their products and solutions. You will also learn about creating intelligent virtual assistants and how they can be leveraged in different scenarios.  By the end of this specialization, learners will have had hands-on interactions with several AI environments and applications, and have built and deployed an AI enabled chatbot on a website without any coding. ",
         "thumbnail": "https://img.freepik.com/free-vector/abstract-wireframe-digital-human-female-face-streaming-matrix-digital-binary-code-background-ai-artificial-intelligence-concept_127544-849.jpg?w=996&t=st=1666831504~exp=1666832104~hmac=0fb83c85f3ff491ed655a18c21e450d2a9e5965446df814686c06e80e1772e71",
-        "ratings": 4.8
+        "ratings": 4.8,
+        "outline": ["Python", "AI", "Advanded AI"]
     }
 ]
