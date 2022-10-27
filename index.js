@@ -8,6 +8,9 @@ app.use(cors())
 // courses data 
 const courses = require("./data/courses.json")
 
+// blogs data 
+const blogs = require("./data/blogs.json")
+
 app.get("/", (req, res) => {
     res.send("code tutor server is running")
 })
@@ -20,6 +23,10 @@ app.get("/course/:id", (req, res) => {
     const id = parseInt(req.params.id);
     const selectedCourse = courses.find(course => course.id === id)
     res.send(selectedCourse)
+})
+
+app.get("/blogs", (req, res) => {
+    res.send(blogs)
 })
 
 app.listen(port, () => {
