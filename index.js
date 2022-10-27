@@ -5,8 +5,15 @@ const port = process.env.port || 5000;
 
 app.use(cors())
 
+// courses data 
+const courses = require("./data/courses.json")
+
 app.get("/", (req, res) => {
     res.send("code tutor server is running")
+})
+
+app.get("/courses", (req, res) => {
+    res.send(courses)
 })
 
 app.listen(port, () => {
